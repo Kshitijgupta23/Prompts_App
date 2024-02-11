@@ -58,6 +58,7 @@ const PromptCard = ({ post, handleTagClick, handleEdit, handleDelete }) => {
             : '/assets/icons/copy.svg' }
             width={12}
             height={12}
+            alt='Image'
           />
         </div>
       </div>
